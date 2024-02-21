@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=login-form-is&label=login-form&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
 <a name="readme-top"></a>
 
@@ -7,8 +6,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
+<img src="https://komarev.com/ghpvc/?username=login-form-is&label=login-form&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
 
 <br />
