@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=login-form-is&label=login-form&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
 <a name="readme-top"></a>
 
@@ -21,11 +22,11 @@
     AJAX sending sending the request to the server using the POST method which is quietly safe when dealing with sensitive data(Login Credentials).
     <br />
     <br />
-    <a href="https://mrnkolima.github.io/login-form/"><strong>Check Demo</strong></a>
+    <a href="https://isaka-james.github.io/login-form/"><strong>Check Demo</strong></a>
     .
-    <a href="https://github.com/MrNkolima/login-form/issues">Report Bug</a>
+    <a href="https://github.com/isaka-james/login-form/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MrNkolima/login-form/login-form/issues">Request Feature</a>
+    <a href="https://github.com/isaka-james/login-form/login-form/issues">Request Feature</a>
   </p>
 </div>
 
@@ -73,27 +74,22 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
-
-Isack Nkolima- [@isack_nkolima](https://twitter.com/your_username)
-
-Project Link: [https://github.com/MrNkolima/login-form](https://github.com/MrNkolima/login-form)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/MrNkolima/login-form.svg?style=for-the-badge
-[contributors-url]: https://github.com/MrNkolima/login-form/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MrNkolima/login-form.svg?style=for-the-badge
-[forks-url]: https://github.com/MrNkolima/login-form/network/members
-[stars-shield]: https://img.shields.io/github/stars/MrNkolima/login-form.svg?style=for-the-badge
-[stars-url]: https://github.com/MrNkolima/login-form/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MrNkolima/login-form.svg?style=for-the-badge
-[issues-url]: https://github.com/MrNkolima/MrNkolima/issues
-[license-shield]: https://img.shields.io/github/license/MrNkolima/login-form.svg?style=for-the-badge
-[license-url]: https://github.com/MrNkolima/login-form/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/isaka-james/login-form.svg?style=for-the-badge
+[contributors-url]: https://github.com/isaka-james/login-form/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/isaka-james/login-form.svg?style=for-the-badge
+[forks-url]: https://github.com/isaka-james/login-form/network/members
+[stars-shield]: https://img.shields.io/github/stars/isaka-james/login-form.svg?style=for-the-badge
+[stars-url]: https://github.com/isaka-james/login-form/stargazers
+[issues-shield]: https://img.shields.io/github/issues/isaka-james/login-form.svg?style=for-the-badge
+[issues-url]: https://github.com/isaka-james/isaka-james/issues
+[license-shield]: https://img.shields.io/github/license/isaka-james/login-form.svg?style=for-the-badge
+[license-url]: https://github.com/isaka-james/login-form/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/isack-philiph-0297a8247
 [product-screenshot]: screenshot.png
